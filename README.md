@@ -37,4 +37,8 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeboi121&layout=compact)
+![GitHub streak](https://streak-stats.demolab.com?user=codeboi121&theme=dark)
+
+
 > 💡 Want to explore more? Browse all projects at [github.com/codeboi121?tab=repositories](https://github.com/codeboi121?tab=repositories)
