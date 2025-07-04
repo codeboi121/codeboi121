@@ -1,21 +1,40 @@
-# Hi, I'm Shyam 👋
+# 🔥 Featured Projects
 
-🎓 Master's in Computer Science | Auburn University  
-💼 Graduate Teaching Assistant | Ex-Full-Stack Developer @ Syncronik  
-🛠️ Tech Stack: Java, Spring Boot, React, SQL, REST APIs, Git, Linux  
-🌱 Currently learning: Machine Learning, System Design  
-📈 Passionate about building scalable, secure, real-world apps  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/shyam-mandaloju-a62976130)
+### 🚀 [Coronavirus Tracker](https://github.com/codeboi121/coronavirus-tracker)
+> Java-based real-time coronavirus data tracker
 
----
-
-### 🔥 Featured Projects
-- 🚀 [Coronavirus Tracker](https://github.com/codeboi121/coronavirus-tracker) – Java-based tracker app  
-- 🧠 [CSCL FrontEnd](https://github.com/codeboi121/CSCL_FrontEnd_project) – React-based collaboration tool
+- ✅ Built with **Java**, **REST APIs**, and **Spring Boot**
+- 📊 Pulls and visualizes live COVID-19 data
+- 🌍 Designed for global scalability
+- 🧩 Follows MVC structure with reusable service layers
 
 ---
 
-### 📊 GitHub Stats
-![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeboi121&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeboi121&layout=compact)
-![GitHub streak](https://streak-stats.demolab.com?user=codeboi121&theme=dark)
+### 🧠 [CSCL FrontEnd](https://github.com/codeboi121/CSCL_FrontEnd_project)
+> React-based collaborative learning interface
+
+- ⚛️ Built with **JavaScript**, **React**, **HTML/CSS**
+- 📚 Frontend for a Computer-Supported Collaborative Learning app
+- 🎯 Focused on user interaction and real-time data display
+- 🧪 Good for showcasing **React frontend skills**
+
+---
+
+### 🧾 [User Registry and Security](https://github.com/codeboi121/User-Registry-and-Security)
+> Basic user registration system with authentication
+
+- 🔐 Shows form handling, security practices, and routing
+- 💡 Demonstrates Spring security and login flow
+- 🎓 Great for understanding **user auth logic**
+
+---
+
+### 🏭 [my-erp](https://github.com/codeboi121/my-erp)
+> Custom-built ERP project
+
+- 📦 Built with **HTML/CSS** and backend logic
+- 🧩 Modular design for various enterprise modules
+
+---
+
+> 💡 Want to explore more? Browse all projects at [github.com/codeboi121?tab=repositories](https://github.com/codeboi121?tab=repositories)
