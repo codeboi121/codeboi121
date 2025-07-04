@@ -1,7 +1,7 @@
 # Hi, I'm Shyam 👋
 
 🎓 Master's in Computer Science | Auburn University  
-💼 Graduate Teaching Assistant | Full-Stack Developer Intern @ Syncronik  
+💼 Graduate Teaching Assistant | Ex-Full-Stack Developer @ Syncronik  
 🛠️ Tech Stack: Java, Spring Boot, React, SQL, REST APIs, Git, Linux  
 🌱 Currently learning: Machine Learning, System Design  
 📈 Passionate about building scalable, secure, real-world apps  
